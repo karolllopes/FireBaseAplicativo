@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117761678198",
+    "project_id": "appfirebase-2157f",
+    "storage_bucket": "appfirebase-2157f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117761678198:android:657c48f7ade43e3351b857",
+        "android_client_info": {
+          "package_name": "com.example.aulapamfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfDnuKmp6KFs3QLvBJqG9b2bhmut_eKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
